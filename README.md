@@ -102,6 +102,6 @@
 
 ###
 
-<p align="center">✔ Learning Python - Mark Lutz<br><br>✔ The C Programming Language - K&R<br><br>✔ The Rust Programming Langauge - Steve Klabnik and Carol Nichols<br><br>✔ Grokking Algorithms - Aditya Bhargava<br><br>✔ Rust in Action - Tim McNamara<br><br>✘ Clean Architecture - Robert Martin [~35%]<br><br>✘ Computer Networking: A Top-Down Approach - James Kurouse [~15%]<br><br>✘ The Linux Programming Interface - Michael Kerrisk [0%]</p>
+<p align="center">✔ Learning Python - Mark Lutz<br><br>✔ The C Programming Language - K&R<br><br>✔ The Rust Programming Langauge - Steve Klabnik and Carol Nichols<br><br>✔ Grokking Algorithms - Aditya Bhargava<br><br>✔ Rust in Action - Tim McNamara<br><br>✘ Clean Architecture - Robert Martin [~50%]<br><br>✘ Computer Networking: A Top-Down Approach - James Kurouse [~15%]<br><br>✘ The Linux Programming Interface - Michael Kerrisk [0%]</p>
 
 ###
