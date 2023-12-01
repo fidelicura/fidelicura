@@ -12,5 +12,6 @@ My point is simple, e.g. black hat hacking. Hacking is thankless task because yo
 
 # Сlarifications
 
+It is not about **strict rules**. For me, it is all about rationality and humanity.
 Let's be honest, we both know that this won't work and it is utopia, but I don't pretend this to be the best of all kinds.
 Everyone has to bite their own bullets. Multiple times.
