@@ -9,6 +9,7 @@ My point is simple, e.g. black hat hacking. Hacking is thankless task because yo
 2) **Knowledge**: "Science teaching knowledge should be free, but bookprinting is the **only** alternative in paid version of knowledge";
 3) **Software**: "Software should be open-source, but it is fine to make it **paid to use**, e.g. open-source SaaS, because _work must be paid in the capitalist world_";
 4) **Fraud**: "No fraud of any type";
+5) **Code Style**: "4 spaces (prevents from deep nesting), 80 symbols (prevents from nesting and long constructions)";
 
 # Сlarifications
 
