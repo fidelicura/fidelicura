@@ -3,7 +3,7 @@
 ###
 
 <p align="center">Warmly welcome to my page! 17 years old tech learner.</p>
-<p align="center">Interested in <b>type</b>+<b>category</b>+<b>computability</b> theories, <b>multithreading</b> and <b>async</b>, <b>kernel</b> and <b>network</b> programming!</p>
+<p align="center">Interested in <b>type</b> and <b>category</b> theories, <b>multithreading</b> and <b>async</b>, <b>kernel</b> and <b>network</b> programming!</p>
 <p align="center">That's it, I won't interfere!</p>
 
 ###
