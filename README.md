@@ -4,7 +4,6 @@
 
 <p align="center">Warmly welcome to my page! 17 years old tech learner.</p>
 <p align="center">Interested in <b>type</b> and <b>category</b> theories, <b>multithreading</b> and <b>async</b>, <b>kernel</b> and <b>network</b> programming!</p>
-<p align="center">!["Life Manifest"](./MANIFESTO.md)</p>
 <p align="center">That's it, I won't interfere!</p>
 
 ###
@@ -109,4 +108,5 @@
 
 <p align="center">✔ Learning Python - Mark Lutz [100%]<br><br>✔ The C Programming Language - K&R [100%]<br><br>✔ The Rust Programming Langauge - Steve Klabnik and Carol Nichols [100%]<br><br>✔ Grokking Algorithms - Aditya Bhargava [100%]<br><br>✔ Rust in Action - Tim McNamara [100%]<br><br>✔ About Haskell in Human Terms - Dmitriy Shevchenko [100%]<br><br>✘ Clean Architecture - Robert Martin [~50%]<br><br>✘ Computer Networking: A Top-Down Approach - James Kurouse [~15%]<br><br>✘ The Linux Programming Interface - Michael Kerrisk [0%]</p>
 
+![Life Manifest](MANIFESTO.md)
 ###
