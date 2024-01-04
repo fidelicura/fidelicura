@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/zig/zig-original.svg" height="40" alt="zig logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
 </div>
 
 ###
@@ -104,6 +106,6 @@
 
 ###
 
-<p align="center">✔ Learning Python - Mark Lutz<br><br>✔ The C Programming Language - K&R<br><br>✔ The Rust Programming Langauge - Steve Klabnik and Carol Nichols<br><br>✔ Grokking Algorithms - Aditya Bhargava<br><br>✔ Rust in Action - Tim McNamara<br><br>✘ Clean Architecture - Robert Martin [~50%]<br><br>✘ Computer Networking: A Top-Down Approach - James Kurouse [~15%]<br><br>✘ The Linux Programming Interface - Michael Kerrisk [0%]</p>
+<p align="center">✔ Learning Python - Mark Lutz [100%]<br><br>✔ The C Programming Language - K&R [100%]<br><br>✔ The Rust Programming Langauge - Steve Klabnik and Carol Nichols [100%]<br><br>✔ Grokking Algorithms - Aditya Bhargava [100%]<br><br>✔ Rust in Action - Tim McNamara [100%]<br><br>✔ About Haskell in Human Terms - Dmitriy Shevchenko [100%]<br><br>✘ Clean Architecture - Robert Martin [~50%]<br><br>✘ Computer Networking: A Top-Down Approach - James Kurouse [~15%]<br><br>✘ The Linux Programming Interface - Michael Kerrisk [0%]</p>
 
 ###
